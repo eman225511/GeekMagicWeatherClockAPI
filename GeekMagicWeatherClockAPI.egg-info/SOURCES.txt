@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+GeekMagicWeatherClockAPI/__init__.py
+GeekMagicWeatherClockAPI/core.py
+GeekMagicWeatherClockAPI.egg-info/PKG-INFO
+GeekMagicWeatherClockAPI.egg-info/SOURCES.txt
+GeekMagicWeatherClockAPI.egg-info/dependency_links.txt
+GeekMagicWeatherClockAPI.egg-info/requires.txt
+GeekMagicWeatherClockAPI.egg-info/top_level.txt
