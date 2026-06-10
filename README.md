@@ -1,6 +1,7 @@
 # GeekMagicWeatherClockAPI
 
 A simple Python wrapper for controlling the **GeekMagic SmallTV** over your local network. Supports uploading images/GIFs, switching themes, adjusting brightness, and managing files on the device.
+[PyPi](https://pypi.org/project/GeekMagicWeatherClockAPI/0.1.0/)
 
 ---
 
