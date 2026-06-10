@@ -114,3 +114,6 @@ tv.delete("new_image.gif")
 - The SmallTV firmware occasionally returns malformed `Content-Length` headers on upload responses. The `upload` method treats this as a failure and retries automatically.
 - All methods can raise `requests.exceptions.ConnectionError` if the device is unreachable.
 - File management methods operate on the `/image/` directory on the device.
+
+(Dev Note)
+On update chnage version in `pyproject.toml` and run `twine upload dist/*`
