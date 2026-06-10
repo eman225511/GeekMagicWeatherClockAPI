@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "GeekMagicWeatherClockAPI"
+version = "0.1.0"
+description = "Python wrapper for controlling the GeekMagic SmallTV"
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = ["requests"]
+
+[project.urls]
+Homepage = "https://github.com/yourname/GeekMagicWeatherClockAPI"
