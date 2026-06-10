@@ -116,4 +116,4 @@ tv.delete("new_image.gif")
 - File management methods operate on the `/image/` directory on the device.
 
 (Dev Note)
-On update chnage version in `pyproject.toml` and run `twine upload dist/*`
+On update change version in `pyproject.toml` and run `twine upload dist/*`
